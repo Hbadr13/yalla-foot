@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Check out the live version: [Sofa](https://sofa-nu.vercel.app/ma/sl)
+Check out the live version: [Sofa](https://yalla-foot.vercel.app/ar/home)
 
 ## Features
 
