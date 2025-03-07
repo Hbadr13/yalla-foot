@@ -47,7 +47,7 @@ Stay tuned for the official release! YallaFoot is the ultimate destination for e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hbadr13/sofascore-clone.git
+   git clone https://github.com/Hbadr13/yalla-foot.git
    cd sofa
    ```
 

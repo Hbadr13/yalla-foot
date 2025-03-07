@@ -19,7 +19,7 @@ const PlayerStatistics = ({ player }: PplayerStatisticsProps) => {
                 <div className="flex  flex-wrap rtl:space-x-reverse  gap-2">
                     {
                         tournamentsApi.slice(0, 4).map((tourn, index) =>
-                            <Button key={index} onClick={() => setCurrentTournament(tourn.id)} className={`${currentTournament == tourn.id ? 'bg-bs-gray-dark-v1 text-white' : 'bg-bs-gray-dark-v2 text-bs-light-v2'} rounded-2xl p-2 rtl:space-x-reverse space-x-1  `} key={index}>
+                            <Button key={index} onClick={() => setCurrentTournament(tourn.id)} className={`${currentTournament == tourn.id ? 'bg-bs-gray-dark-v1 text-white' : 'bg-bs-gray-dark-v2 text-bs-light-v2'} rounded-2xl p-2 rtl:space-x-reverse space-x-1  `}>
                                 <div className="">
                                     {tourn.name}
                                 </div>
